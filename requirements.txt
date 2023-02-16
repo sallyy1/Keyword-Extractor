@@ -1,0 +1,7 @@
+konlpy
+JPype1-py3
+urllib3
+tweepy==3.7.0
+colorama
+beautifulsoup4
+Flask
